@@ -1,2 +1,3 @@
 # hello-world
 just to say hello...
+Chinese programmer,new hand,use python
